@@ -9,6 +9,16 @@ This portfolio shows how I connect the business problem to the data model, imple
 
 ## Featured projects
 
+### BNKHER — Business Banking Companion
+
+A business banking companion prototype that helps a fictional furniture boutique understand cash commitments, evaluate an inventory purchase, and plan a warehouse expansion.
+
+[![BNKHER cash dashboard](https://raw.githubusercontent.com/cmcgh33/bnkher-business-companion./main/design/desktop.png)](https://github.com/cmcgh33/bnkher-business-companion.)
+
+**What it demonstrates:** product discovery, requirements and acceptance criteria, explainable financial scenarios, responsive interface design, a rule-based conversational demo, and automated validation.
+
+[Explore the source](https://github.com/cmcgh33/bnkher-business-companion.) · [Requirements and acceptance criteria](https://github.com/cmcgh33/bnkher-business-companion./blob/main/docs/requirements.md) · [Decision flow](https://github.com/cmcgh33/bnkher-business-companion./blob/main/docs/decision-flow.md) · [Verification and UAT](https://github.com/cmcgh33/bnkher-business-companion./blob/main/docs/uat.md)
+
 ### CreditFlow — Commercial Lending Workflow
 
 An explainable lending workspace that takes a fictional loan from intake through rule-based screening, analyst review, and saved decision evidence.
@@ -56,7 +66,7 @@ An Excel-to-JSON configuration tool that checks business rules before producing 
 
 **Portfolio tools:** Power BI, DAX, Power Query, Python, Excel, JSON Schema, Streamlit, TypeScript, React, Express, PostgreSQL, SQLite, and GitHub.
 
-CreditFlow, Vela CRM, and Config JSON Generator use fictional data and independently defined rules. Each featured project includes documentation of its design, validation, and scope so reviewers can explore the reasoning behind the implementation.
+BNKHER, CreditFlow, Vela CRM, and Config JSON Generator use fictional data and independently defined rules. Each featured project includes documentation of its design, validation, and scope so reviewers can explore the reasoning behind the implementation.
 
 ## Earlier learning
 
