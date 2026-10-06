@@ -9,6 +9,16 @@ This portfolio shows how I connect the business problem to the data model, imple
 
 ## Featured projects
 
+### SERVED. — Process Serving Marketplace
+
+A role-based web platform connecting individuals, law firms, and process servers through job intake, assignment, service attempts, documents, and payment workflows.
+
+[![SERVED public experience](https://raw.githubusercontent.com/cmcgh33/served-process-platform/main/docs/images/home.jpg)](https://github.com/cmcgh33/served-process-platform)
+
+**What it demonstrates:** product workflow design, multiple user personas, business-rule validation, an API contract, relational data modeling, and integration boundaries. The reviewed source passes workspace typechecks, web/API compilation, and 45 unit tests; full integration verification requires configured test services.
+
+[Explore the public demo](https://servedapp.replit.app/demo) · [Explore the source](https://github.com/cmcgh33/served-process-platform) · [Product case study](https://github.com/cmcgh33/served-process-platform/blob/main/docs/product-case-study.md) · [Verification record](https://github.com/cmcgh33/served-process-platform/blob/main/docs/verification.md)
+
 ### Vela CRM — Sales Command Center
 
 A four-page Power BI report that helps sales leaders evaluate performance, understand pipeline exposure, and identify deals that need attention.
@@ -34,9 +44,9 @@ An Excel-to-JSON configuration tool that checks business rules before producing 
 - Build something stakeholders can review and exercise.
 - Validate expected outcomes and document limitations.
 
-**Portfolio tools:** Power BI, DAX, Power Query, Python, Excel, JSON Schema, Streamlit, and GitHub.
+**Portfolio tools:** Power BI, DAX, Power Query, Python, Excel, JSON Schema, Streamlit, TypeScript, React, Express, PostgreSQL, and GitHub.
 
-All featured projects use fictional data and independently defined rules. Implementation is AI-assisted; requirements, design decisions, and validation evidence are documented so the work can be reviewed.
+Vela CRM and Config JSON Generator use fictional data and independently defined rules. SERVED documents a separate product implementation, with its observed behavior and remaining verification work clearly identified. Implementation is AI-assisted; requirements, design decisions, and validation evidence are documented so the work can be reviewed.
 
 ## Earlier learning
 
