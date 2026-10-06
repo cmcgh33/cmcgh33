@@ -1,26 +1,43 @@
-## Hi, I’m Carla 👋🏽
+# Carla McGhee
+### Business Analysis · Credit Technology · Decision Support
 
-### Business Analyst | Data Analytics | Banking & Finance
+I turn business rules and operational needs into clear requirements, reviewable configurations, and useful analytics. My background spans banking, commercial lending, and financial technology, with current work focused on credit systems, requirements, and UAT.
 
-I’m a data-driven Business Analyst with **17+ years of experience in banking**, currently transitioning deeper into **data analytics and business intelligence**. I specialize in turning complex financial and operational data into **clear insights that support decision-making**.
+This portfolio shows how I connect the business problem to the data model, implementation, and validation.
 
-### 🔍 What I Work With
-- **SQL** (data extraction, cleaning, analysis)
-- **Power BI** (dashboards, DAX, executive reporting)
-- **Tableau** (visual storytelling)
-- **Python** (pandas, data cleaning, exploratory analysis)
-- **Excel** (Power Query, advanced formulas)
+[LinkedIn](https://www.linkedin.com/in/carla-mcghee33/) · [Email](mailto:c.mcghee702@gmail.com)
 
-### 📊 What You’ll Find Here
-- End-to-end analytics projects (from raw data → insights)
-- Financial and banking-focused dashboards
-- Data cleaning and transformation examples
-- SQL-driven analysis projects
+## Featured projects
 
-### 🤝 Open To
-- Analytics & Business Analyst roles
-- Data-focused collaborations
-- Finance, banking, and operations analytics projects
+### Vela CRM — Sales Command Center
 
-📫 **Reach me:** c.mcghee702@gmail.com  
-💬 **Pronouns:** she/her
+A four-page Power BI report that helps sales leaders evaluate performance, understand pipeline exposure, and identify deals that need attention.
+
+[![Vela CRM executive overview](https://raw.githubusercontent.com/cmcgh33/vela-crm-powerbi/main/design/executive-desktop.png)](https://github.com/cmcgh33/vela-crm-powerbi)
+
+**What it demonstrates:** semantic modeling, DAX, metric definitions, report design, filter behavior, and expected-result checks using fictional CRM data.
+
+[Explore the dashboard and source](https://github.com/cmcgh33/vela-crm-powerbi) · [Metric definitions](https://github.com/cmcgh33/vela-crm-powerbi/blob/main/docs/metric-definitions.md) · [UAT evidence and scenarios](https://github.com/cmcgh33/vela-crm-powerbi/blob/main/docs/uat.md)
+
+### Config JSON Generator
+
+An Excel-to-JSON configuration tool that checks business rules before producing a versioned output. Analysts can edit factors, weights, and rule bands without hand-assembling JSON.
+
+**What it demonstrates:** requirements and acceptance criteria, input-to-output mappings, reusable validation, a JSON Schema contract, automated tests, and a hosted Streamlit interface.
+
+[Try the live demo](https://carla-config-generator.streamlit.app/) · [Explore the source](https://github.com/cmcgh33/config-json-generator) · [Requirements and acceptance criteria](https://github.com/cmcgh33/config-json-generator/blob/main/docs/requirements.md)
+
+## How I approach delivery
+
+- Define the business problem, rules, and acceptance criteria.
+- Make data grain, mappings, and metric behavior explicit.
+- Build something stakeholders can review and exercise.
+- Validate expected outcomes and document limitations.
+
+**Portfolio tools:** Power BI, DAX, Power Query, Python, Excel, JSON Schema, Streamlit, and GitHub.
+
+All featured projects use fictional data and independently defined rules. Implementation is AI-assisted; requirements, design decisions, and validation evidence are documented so the work can be reviewed.
+
+## Earlier learning
+
+[Python Foundations](https://github.com/cmcgh33/python-foundations) preserves my early programming exercises. My current portfolio work is featured above.
