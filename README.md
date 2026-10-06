@@ -17,7 +17,7 @@ A business banking companion prototype that helps a fictional furniture boutique
 
 **What it demonstrates:** product discovery, requirements and acceptance criteria, explainable financial scenarios, responsive interface design, a rule-based conversational demo, and automated validation.
 
-[Explore the source](https://github.com/cmcgh33/bnkher-business-companion.) · [Requirements and acceptance criteria](https://github.com/cmcgh33/bnkher-business-companion./blob/main/docs/requirements.md) · [Decision flow](https://github.com/cmcgh33/bnkher-business-companion./blob/main/docs/decision-flow.md) · [Verification and UAT](https://github.com/cmcgh33/bnkher-business-companion./blob/main/docs/uat.md)
+[Try the live demo](https://cmcgh33.github.io/bnkher-business-companion./web/) · [Explore the source](https://github.com/cmcgh33/bnkher-business-companion.) · [Requirements and acceptance criteria](https://github.com/cmcgh33/bnkher-business-companion./blob/main/docs/requirements.md) · [Decision flow](https://github.com/cmcgh33/bnkher-business-companion./blob/main/docs/decision-flow.md) · [Verification and UAT](https://github.com/cmcgh33/bnkher-business-companion./blob/main/docs/uat.md)
 
 ### CreditFlow — Commercial Lending Workflow
 
