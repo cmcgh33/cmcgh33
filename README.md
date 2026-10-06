@@ -17,7 +17,7 @@ An explainable lending workspace that takes a fictional loan from intake through
 
 **What it demonstrates:** end-to-end business analysis, process mapping, user stories, acceptance criteria, financial-ratio rules, API design, decision explanations, and automated validation.
 
-[Explore the source](https://github.com/cmcgh33/creditflow-lending-workflow) · [Product case study](https://github.com/cmcgh33/creditflow-lending-workflow/blob/main/docs/case-study.md) · [Business rules](https://github.com/cmcgh33/creditflow-lending-workflow/blob/main/docs/business-rules.md) · [Verification and UAT](https://github.com/cmcgh33/creditflow-lending-workflow/blob/main/docs/verification.md)
+[Try the live demo](https://carla-creditflow.streamlit.app/) · [Explore the source](https://github.com/cmcgh33/creditflow-lending-workflow) · [Product case study](https://github.com/cmcgh33/creditflow-lending-workflow/blob/main/docs/case-study.md) · [Business rules](https://github.com/cmcgh33/creditflow-lending-workflow/blob/main/docs/business-rules.md) · [Verification and UAT](https://github.com/cmcgh33/creditflow-lending-workflow/blob/main/docs/verification.md)
 
 ### SERVED. — Process Serving Marketplace
 
