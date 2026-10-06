@@ -7,6 +7,18 @@ This portfolio shows how I connect the business problem to the data model, imple
 
 [LinkedIn](https://www.linkedin.com/in/carla-mcghee33/) · [Email](mailto:c.mcghee702@gmail.com)
 
+## Find evidence for your role
+
+| Review focus | Start here | Supporting evidence |
+| --- | --- | --- |
+| Senior BA / Systems Analyst | [CreditFlow](https://github.com/cmcgh33/creditflow-lending-workflow) + [Config JSON Generator](https://github.com/cmcgh33/config-json-generator) | Requirements, process flow, API contracts, business rules and UAT |
+| Technical Program Manager | [SERVED delivery plan](https://github.com/cmcgh33/served-process-platform/blob/main/docs/delivery-plan.md) + [BNKHER delivery plan](https://github.com/cmcgh33/bnkher-business-companion./blob/main/docs/delivery-plan.md) | Prioritization, dependencies, RAID, milestones, release gates and measurement plans; proposed program artifacts, not staffed delivery claims |
+| Product Manager | [SERVED case study](https://github.com/cmcgh33/served-process-platform/blob/main/docs/product-case-study.md) + [BNKHER product plan](https://github.com/cmcgh33/bnkher-business-companion./blob/main/docs/delivery-plan.md) | User journeys, scope decisions, tradeoffs and proposed success measures |
+| AI / Fintech Systems | [BNKHER tool workflow](https://github.com/cmcgh33/bnkher-business-companion./blob/main/docs/agent-workflow.md) + [CreditFlow governance](https://github.com/cmcgh33/creditflow-lending-workflow/blob/main/docs/governance.md) | Bounded orchestration, tool contracts, deterministic evidence, evaluation and review controls |
+| Data / BI Analyst | [Vela CRM](https://github.com/cmcgh33/vela-crm-powerbi) + [Config JSON Generator](https://github.com/cmcgh33/config-json-generator) | Semantic modeling, metrics, validation and data contracts |
+
+AI status: BNKHER's public workflow uses a deterministic planner. A private model-driven tool loop is implemented and tested with injected responses; real-provider evaluation is pending. CreditFlow reviewer labels illustrate a workflow and do not enforce authenticated identity. See each project's verification boundary.
+
 ## Featured projects
 
 ### BNKHER — Business Banking Companion
@@ -15,7 +27,7 @@ A business banking companion prototype that helps a fictional furniture boutique
 
 [![BNKHER cash dashboard](https://raw.githubusercontent.com/cmcgh33/bnkher-business-companion./main/design/desktop.png)](https://github.com/cmcgh33/bnkher-business-companion.)
 
-**What it demonstrates:** product discovery, requirements and acceptance criteria, explainable financial scenarios, responsive interface design, a rule-based conversational demo, and automated validation.
+**What it demonstrates:** product discovery, requirements and acceptance criteria, explainable financial scenarios, responsive interface design, a rule-based conversational demo, bounded read-only tool orchestration, a private AI backend, and automated validation.
 
 [Try the live demo](https://cmcgh33.github.io/bnkher-business-companion./web/) · [Explore the source](https://github.com/cmcgh33/bnkher-business-companion.) · [Requirements and acceptance criteria](https://github.com/cmcgh33/bnkher-business-companion./blob/main/docs/requirements.md) · [Decision flow](https://github.com/cmcgh33/bnkher-business-companion./blob/main/docs/decision-flow.md) · [Verification and UAT](https://github.com/cmcgh33/bnkher-business-companion./blob/main/docs/uat.md)
 
