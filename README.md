@@ -15,7 +15,7 @@ A role-based web platform connecting individuals, law firms, and process servers
 
 [![SERVED public experience](https://raw.githubusercontent.com/cmcgh33/served-process-platform/main/docs/images/home.jpg)](https://github.com/cmcgh33/served-process-platform)
 
-**What it demonstrates:** product workflow design, multiple user personas, business-rule validation, an API contract, relational data modeling, and integration boundaries. The reviewed source passes workspace typechecks, web/API compilation, and 45 unit tests; full integration verification requires configured test services.
+**What it demonstrates:** product workflow design, multiple user personas, business-rule validation, API contracts, relational data modeling, and integration architecture.
 
 [Explore the public demo](https://servedapp.replit.app/demo) · [Explore the source](https://github.com/cmcgh33/served-process-platform) · [Product case study](https://github.com/cmcgh33/served-process-platform/blob/main/docs/product-case-study.md) · [Verification record](https://github.com/cmcgh33/served-process-platform/blob/main/docs/verification.md)
 
@@ -46,7 +46,7 @@ An Excel-to-JSON configuration tool that checks business rules before producing 
 
 **Portfolio tools:** Power BI, DAX, Power Query, Python, Excel, JSON Schema, Streamlit, TypeScript, React, Express, PostgreSQL, and GitHub.
 
-Vela CRM and Config JSON Generator use fictional data and independently defined rules. SERVED documents a separate product implementation, with its observed behavior and remaining verification work clearly identified. Implementation is AI-assisted; requirements, design decisions, and validation evidence are documented so the work can be reviewed.
+Vela CRM and Config JSON Generator use fictional data and independently defined rules. Each featured project includes documentation of its design, validation, and scope so reviewers can explore the reasoning behind the implementation.
 
 ## Earlier learning
 
